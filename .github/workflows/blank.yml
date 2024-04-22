@@ -36,3 +36,4 @@ jobs:
           echo test, and deploy your project.
           echo hostname:
           hostname
+          return -1
