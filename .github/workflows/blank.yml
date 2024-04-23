@@ -37,4 +37,4 @@ jobs:
           echo hostname:
           hostname
           ls
-          return -1
+          ssh node44 hostname
